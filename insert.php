@@ -5,10 +5,10 @@ if (isset($_POST['submit'])) {
         $username = $_POST['username'];
         $password = $_POST['password'];
 
-        $host = "sql6.freesqldatabase.com";
-        $dbUsername = "sql6442151";
-        $dbPassword = "uhqUSFaGUE";
-        $dbName = "sql6442151";
+        $host = "";                         //Host link here
+        $dbUsername = "";                   //Username here
+        $dbPassword = "";                   //Password here
+        $dbName = "";                       //Database Name here(usually same as username)
 
         $conn = new mysqli($host, $dbUsername, $dbPassword, $dbName);
 
