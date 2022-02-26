@@ -1,6 +1,7 @@
 # UseWisely
 The index.html page is a landing page which redirects you to your desired login page.
-This repository offers you the login page of 
+
+This repository offers you the login page of:
 
 1.)Twitter
 
